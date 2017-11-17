@@ -18,11 +18,9 @@ ${MKLROOT}/lib/intel64/libmkl_core.a ${MKLROOT}/lib/intel64/libmkl_blacs_ilp64.a
 
 #### Run:
 ```sh
-bend -p fam_file -g grm_file -thread numer_of_threads
+bend -p fam_file -g grm_file -threads numer_of_threads
 ```
 
 #### Tell me more:
 
 Optimised version of routine in [MTG2](https://sites.google.com/site/honglee0707)
-
-make non-positive matrix positive 

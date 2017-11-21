@@ -23,4 +23,4 @@ bend -p fam_file -g grm_file -threads numer_of_threads
 
 #### Tell me more:
 
-Optimised version of routine in [MTG2](https://sites.google.com/site/honglee0707)
+Optimised version of routine in [MTG2](https://sites.google.com/site/honglee0707/mtg2), Lee, SH and van der Werf, JHJ (2016) MTG2: An efficient algorithm for multivariate linear mixed model analysis based on genomic information. Bioinformatics 32, 1420-1422
